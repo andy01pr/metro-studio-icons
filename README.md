@@ -5,4 +5,4 @@ The application contains thousands of icons but this list is only for the icons 
 
 List of Icons
 
-* [sf-icon-pdf-export] ("https://github.com/andy01pr/metro-studio-icons/master/icons/pdf export.png" "PDF Export")
+* [sf-icon-pdf-export] (https://github.com/andy01pr/metro-studio-icons/master/icons/pdf-export.png "PDF Export")
