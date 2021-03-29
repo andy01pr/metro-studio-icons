@@ -1,13 +1,13 @@
 # metro-studio-icons
 Collection of icons from the [Syncfusion's Metro Studio](https://www.syncfusion.com/downloads/metrostudio) application.
 
-The application contains thousands of icons but this list is only for the icons that I have used. Feel free to use them whichever way you like.
+The application contains thousands of icons but this list is only for the icons that I have used. It is a CSS file with the icons embedded. Feel free to use them whichever way you like.
 
 **Always add the ```sf-icon``` class before the icon's name.**
 
 Example of using the icons in HTML:
 <br/>
-```<i class="sf-icon sf-icon-pdf-export"></i>```
+```<i class="sf-icon sf-icon-ambulance"></i>```
 
 List of Icons
 
